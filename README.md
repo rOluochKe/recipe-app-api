@@ -28,3 +28,7 @@ A complete app API
 
 - Down `docker-compose -f docker-compose-deploy.yml down`
 - Run `docker-compose -f docker-compose-deploy.yml up`
+
+### Updating app
+
+- Volume down `docker-compose down --volumes`
