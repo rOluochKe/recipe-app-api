@@ -1,6 +1,17 @@
 # Recipe app API
 
-A complete app API
+This full API service for your favorite recipes application is built using Python, Django, Django Rest Framework (DRF), PostgreSQL, and Docker, providing a comprehensive solution for managing and sharing your favorite recipes.
+
+Python serves as the core programming language, while Django offers a robust framework for developing web applications. DRF extends Django's capabilities, enabling the creation of powerful and flexible APIs for recipe management.
+
+The PostgreSQL database ensures reliable and scalable data storage, allowing users to store and retrieve their favorite recipes efficiently.
+
+By utilizing Docker, the application guarantees easy deployment and scalability, enabling seamless integration with existing infrastructure.
+
+Through this API service, users can perform various recipe-related operations, such as creating, updating, and deleting recipes, as well as searching and filtering recipes based on different criteria.
+
+The combination of Python, Django, DRF, PostgreSQL, and Docker empowers users to create a customized and user-friendly recipe application, enabling them to share and explore their favorite recipes with ease.
+
 
 ## Technologies
 
